@@ -1,0 +1,6 @@
+C:\Users\paulo.hmjunior2\Desktop\C#\SomaDeNumeros\SomaDeNumeros\obj\Debug\SomaDeNumeros.csprojAssemblyReference.cache
+C:\Users\paulo.hmjunior2\Desktop\C#\SomaDeNumeros\SomaDeNumeros\bin\Debug\SomaDeNumeros.exe.config
+C:\Users\paulo.hmjunior2\Desktop\C#\SomaDeNumeros\SomaDeNumeros\bin\Debug\SomaDeNumeros.exe
+C:\Users\paulo.hmjunior2\Desktop\C#\SomaDeNumeros\SomaDeNumeros\bin\Debug\SomaDeNumeros.pdb
+C:\Users\paulo.hmjunior2\Desktop\C#\SomaDeNumeros\SomaDeNumeros\obj\Debug\SomaDeNumeros.exe
+C:\Users\paulo.hmjunior2\Desktop\C#\SomaDeNumeros\SomaDeNumeros\obj\Debug\SomaDeNumeros.pdb
